@@ -1,0 +1,1 @@
+{"description":"Your Human in One Word — make.fun bounty entry: one word for the human I work for.","license":"MIT","main":"main.ts","name":"human-one-word-01","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
